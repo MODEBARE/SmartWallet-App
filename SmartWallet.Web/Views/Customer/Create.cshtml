@@ -1,0 +1,67 @@
+﻿@model Customer
+
+
+<div class="row">
+    <form  asp-action="Create" asp-controller="Customer">
+        <div class="row mb-2">
+            <div class="col-6">
+                <label class="col-2">FirstName</label>
+                <input class="col-4" asp-for="FirstName" />
+                <span asp-validation-for="FirstName"></span>
+            </div>
+             <div class="col-6">
+                   <label class="col-2">LastName</label>
+                <input class="col-4"  asp-for="LastName" />
+                 <span asp-validation-for="LastName"></span>
+            </div>
+        </div>
+
+        <div class="row mb-2">
+            <div class="col-6">
+                <label class="col-2">BirthDate</label>
+                <input class="col-4" asp-for="BirthDate" />
+                <span asp-validation-for="BirthDate"></span>
+            </div>
+             <div class="col-6">
+                   <label class="col-2">Gender</label>
+                <select class="col-4"  asp-for="Gender">
+                    <option value="1">Female</option>
+                    <option value="2" selected>Male</option>
+                    <option value="3">Others</option>
+                </select>
+                <span asp-validation-for="Gender"></span>
+            </div>
+        </div>
+
+        <div class="row mb-2">
+            <div class="col-8">
+                <label class="col-2">Address</label>
+                <input class="col-6" asp-for="Address" />
+                <span asp-validation-for="Address"></span>
+            </div>
+        </div>
+
+        <div class="row mb-2">
+            <div class="col-6">
+                <label class="col-2">Phone No</label>
+                <input class="col-4" asp-for="PhoneNo" />
+                <span asp-validation-for="PhoneNo"></span>
+            </div>
+             <div class="col-6">
+                   <label class="col-2">Email</label>
+                <input class="col-4"  asp-for="Email" />
+                <span asp-validation-for="Email"></span>
+            </div>
+        </div>
+
+        <div class="row mb-2">
+            <div class="col-12">
+                <label class="col-2">Is active<input asp-for="Active" /></label>
+            </div>
+        </div>
+
+         <div class="row">
+           <button type="submit" class="btn btn-primary btn-sm"> Save Customer</button>
+        </div>
+    </form>
+</div>

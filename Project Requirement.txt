@@ -1,0 +1,49 @@
+Project Name: SmartWallet
+
+--Requirment gathering
+
+1. Able register a customer
+2. Able to update a customer
+3. Able delete customer
+4. Able search customer by name
+5. An application that is accessible everywhere
+
+--Design
+---Architecture
+1. Web Application
+---Server-side web application
+---SPA
+----Angular
+----React
+----Vue
+----Blazor
+-----Blazor Web Assembly
+-----Blazor Server
+
+
+--.NET
+---.NET Framework
+---.NET 6 (.Net core)
+----C#, VB.NEt, F#, C++ etc.
+
+
+---Architecture
+----Monolith
+----Modular Monolith
+----Microservices
+
+--Client/Server type app
+--3-Layers type of app -- Presentation - Business Layer - Data layer
+--N-Layer -- Presentation - Application Layer - Business Layer - Infrastrucutre Layer - Data layer
+
+
+--Code first approach
+--Database first approach
+
+--Database Migration
+--dotnet ef migrations add Init
+--dotnet ef migrations add AddLanguageMigration -p C:\Development\SmartWallet\SmartWallet.Web
+--dotnet ef database update  -p C:\Development\SmartWallet\SmartWallet.Web
+--ef migrations remove   -p C:\Development\SmartWallet\SmartWallet.Web
+-- ConnectionString: Server=(localdb)\\mssqllocaldb; Database=SmartWalletDb; Trusted_Connection=True;
+

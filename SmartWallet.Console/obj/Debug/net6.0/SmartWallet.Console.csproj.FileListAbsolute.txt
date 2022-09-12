@@ -1,0 +1,15 @@
+C:\Development\SmartWallet\SmartWallet.Console\bin\Debug\net6.0\SmartWallet.Console.exe
+C:\Development\SmartWallet\SmartWallet.Console\bin\Debug\net6.0\SmartWallet.Console.deps.json
+C:\Development\SmartWallet\SmartWallet.Console\bin\Debug\net6.0\SmartWallet.Console.runtimeconfig.json
+C:\Development\SmartWallet\SmartWallet.Console\bin\Debug\net6.0\SmartWallet.Console.dll
+C:\Development\SmartWallet\SmartWallet.Console\bin\Debug\net6.0\SmartWallet.Console.pdb
+C:\Development\SmartWallet\SmartWallet.Console\obj\Debug\net6.0\SmartWallet.Console.csproj.AssemblyReference.cache
+C:\Development\SmartWallet\SmartWallet.Console\obj\Debug\net6.0\SmartWallet.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\SmartWallet\SmartWallet.Console\obj\Debug\net6.0\SmartWallet.Console.AssemblyInfoInputs.cache
+C:\Development\SmartWallet\SmartWallet.Console\obj\Debug\net6.0\SmartWallet.Console.AssemblyInfo.cs
+C:\Development\SmartWallet\SmartWallet.Console\obj\Debug\net6.0\SmartWallet.Console.csproj.CoreCompileInputs.cache
+C:\Development\SmartWallet\SmartWallet.Console\obj\Debug\net6.0\SmartWallet.Console.dll
+C:\Development\SmartWallet\SmartWallet.Console\obj\Debug\net6.0\refint\SmartWallet.Console.dll
+C:\Development\SmartWallet\SmartWallet.Console\obj\Debug\net6.0\SmartWallet.Console.pdb
+C:\Development\SmartWallet\SmartWallet.Console\obj\Debug\net6.0\SmartWallet.Console.genruntimeconfig.cache
+C:\Development\SmartWallet\SmartWallet.Console\obj\Debug\net6.0\ref\SmartWallet.Console.dll
